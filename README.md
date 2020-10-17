@@ -14,4 +14,4 @@ Data has been recollected, transformed, cleaned and modelled:
 2. Transformation & cleaning can be found in the following notebook:
 https://github.com/augustodn/freeMarketsandEnvironment/blob/augusto/Notebooks/MultiVariableLinearRegression.ipynb
 
-3. In the same notebook there is a matrix correlation, single and multiple linear regression models applied.
+3. In the same notebook there is a matrix correlation, single and multiple linear regression model applied.
